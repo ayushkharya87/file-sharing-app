@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    padding: 1rem;
+    border-radius: 30%;
+    background-color: rgb(12, 12, 89);
+    border: none;
+    cursor: pointer;
+}
+
+button i {
+    font-size: 2rem;
+    color: wheat;
+}
